@@ -16,4 +16,4 @@ Tech Stack: Python, PostgreSQL, AWS RDS, Socrata, Jupyter Notebook, Google Colab
 
 Data: City of Seattle Open Data Portal - https://data.seattle.gov/
 
-Team: Nathan Cunningham, Allison Chapman, Sahil Aggarwal and Shreya Sabharwal
+Credits: Nathan Cunningham, Allison Chapman and Shreya Sabharwal
