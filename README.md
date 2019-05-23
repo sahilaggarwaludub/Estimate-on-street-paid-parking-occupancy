@@ -11,4 +11,5 @@ https://ischool.uw.edu/capstone/projects/2019/data-driven-parking-seattles-bellt
 
 
 Tech Stack: Python, PostgreSQL, AWS RDS, Socrata, Jupyter Notebook, Google Colab
+
 Data : City of Seattle Open Data Portal - https://data.seattle.gov/
