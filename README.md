@@ -5,6 +5,8 @@ An average driver in Seattle spends 58 hours a year looking for parking. To redu
 
 Important Links with project description:
 
+https://www.youtube.com/watch?v=b68FtZChSMQ&feature=youtu.be
+
 https://ischool.uw.edu/news/2019/05/msim-team-helps-seattle-get-handle-parking-data
 
 https://ischool.uw.edu/capstone/projects/2019/data-driven-parking-seattles-belltown-north-neighborhood
@@ -12,4 +14,6 @@ https://ischool.uw.edu/capstone/projects/2019/data-driven-parking-seattles-bellt
 
 Tech Stack: Python, PostgreSQL, AWS RDS, Socrata, Jupyter Notebook, Google Colab
 
-Data : City of Seattle Open Data Portal - https://data.seattle.gov/
+Data: City of Seattle Open Data Portal - https://data.seattle.gov/
+
+Team: Nathan Cunningham, Allison Chapman, Sahil Aggarwal and Shreya Sabharwal
